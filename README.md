@@ -17,4 +17,4 @@ Exemplos de sorting
           Complexidade de espaço: O(1)
      
 # ENTREGA CAP3 (14/09/2023)
-Binary Tree (funcionalidades)
+Binary Tree (funcionalidades e exemplos)
