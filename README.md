@@ -4,7 +4,7 @@ Repositório destinado para entragar exercícios da disciplina de Otimização e
 # ENTREGA CAP1 (24/08/2023)
 Selecting Right Jobs
 
-# ENTREGA CAP2 (11/09/2023)
+# ENTREGA CAP2 (10/09/2023)
 Exemplos de sorting
    - Bubble Sort
           Complexidade de tempo: O(n2)
