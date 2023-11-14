@@ -21,3 +21,6 @@ Exemplos de sorting
 
 # ENTREGA CAP3 - Parte 2 - Binary Tree using a Array List (21/09/2023)
    - Binary Tree (funcionalidades e exemplos - como percorrer uma binary tree (pre, in, post and level order), procurar um nodo, deletar um nodo...)
+     
+# ENTREGA Dynamic Programming (16/11/2023)
+   - Converter uma string utilizando programação dinamica - exemplo de dois métodos otimizados Top Down and Botton Up.
